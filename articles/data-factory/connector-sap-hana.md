@@ -11,7 +11,7 @@ ms.custom: synapse
 ms.date: 09/09/2021
 ---
 
-# Copy data from SAP HANA using Azure Data Factory or Synapse Analytics
+# Copy data from SAP HANA using Azure Data Factory and Synapse Analytics
 > [!div class="op_single_selector" title1="Select the version of Data Factory service you are using:"]
 > * [Version 1](v1/data-factory-sap-hana-connector.md)
 > * [Current version](connector-sap-hana.md)
